@@ -2,7 +2,7 @@
 + Sinh viên: Phan Thanh Phú
 + MSSV: 23020134
   
-    -Game PixelAventure: tiêu diệt quái và boss cuối map để dành chiến thắng, bạn có 2 loại đạn và có thể thay đổi tùy ý,
+    -Game PixelAdventure: tiêu diệt quái và boss cuối map để dành chiến thắng, bạn có 2 loại đạn và có thể thay đổi tùy ý,
      thu thập các item và dùng chúng sẽ giúp dễ win hơn, bạn phải cẩn thận với các bẫy trên đường khi di chuyển,
      có cái loại bẫy khác nhau, chạm boom bạn sẽ bị thua cuộc ngay!!!
   
