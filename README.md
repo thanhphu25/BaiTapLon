@@ -10,3 +10,4 @@
   
     -Lý do mong muốn là game có đủ các tính năng: menu, hướng dẫn chơi, âm thanh các thao tác, hiệu ứng, loại đạn, item HP,
      item Block, đặt Block, các loại quái, bẫy, texture, geometric, hiện điểm khi thắng hoặc thua, pause game, ...
+    -Game phát triển từ code mẫu tham khảo tại [Phattrienphanmen](https://www.youtube.com/@PhatTrienPhanMem123AZ) và [Lazy Foo'](https://lazyfoo.net/tutorials/SDL/index.php).
